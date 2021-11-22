@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Simone Miller (@smiller2001)
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning problem solving using programming. 
